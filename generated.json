@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "646eee9a8d650e0b24268581",
+    "picture": "http://placehold.it/32x32",
+    "name": "Camille Combs",
+    "gender": "female"
+  },
+  {
+    "_id": "646eee9a042cfb5629bb8bfd",
+    "picture": "http://placehold.it/32x32",
+    "name": "Lester York",
+    "gender": "male"
+  },
+  {
+    "_id": "646eee9ac56a8ec71f147f32",
+    "picture": "http://placehold.it/32x32",
+    "name": "Lane Frost",
+    "gender": "male"
+  },
+  {
+    "_id": "646eee9a7ea2c5f196ae7ede",
+    "picture": "http://placehold.it/32x32",
+    "name": "Alicia Anderson",
+    "gender": "female"
+  },
+  {
+    "_id": "646eee9a665cd7761cfe0395",
+    "picture": "http://placehold.it/32x32",
+    "name": "Griffith Bernard",
+    "gender": "male"
+  }
+]

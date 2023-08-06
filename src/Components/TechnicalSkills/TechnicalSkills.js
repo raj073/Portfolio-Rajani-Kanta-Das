@@ -11,6 +11,8 @@ import mongodb from "../../assets/TechnicalSkills/mongodb.png";
 import firebaseImage from "../../assets/TechnicalSkills/firebase.png";
 import githubImage from "../../assets/TechnicalSkills/github.png";
 import redux from "../../assets/TechnicalSkills/redux.png";
+import typescript from "../../assets/TechnicalSkills/typescript.png";
+import next from "../../assets/TechnicalSkills/next.png";
 
 const TechnicalSkills = () => {
   const skills = [
@@ -85,6 +87,18 @@ const TechnicalSkills = () => {
       src: redux,
       title: "Redux",
       style: "shadow-purple-400",
+    },
+    {
+      id: 13,
+      src: typescript,
+      title: "TypeScript",
+      style: "shadow-blue-700",
+    },
+    {
+      id: 14,
+      src: next,
+      title: "Next.Js",
+      style: "shadow-gray-600",
     },
   ];
   return (
